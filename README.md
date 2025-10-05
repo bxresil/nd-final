@@ -1,5 +1,7 @@
 # ND Filter Experiment — Final Package
 
+[Project page](https://github.com/bxresil/nd-final)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -38,4 +40,3 @@ and (iii) provide a fully reproducible pipeline.
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-[200~EOF
